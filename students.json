@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Leanne",
+        "lastName": "Graham",
+        "courseId": 1
+    },
+    {
+        "id": 2,
+        "name": "Ervin",
+        "lastName": "Howell",
+        "courseId": 1
+    },
+    {
+        "id": 3,
+        "name": "Clementine",
+        "lastName": "Bauch",
+        "courseId": 3
+    },
+    {
+        "id": 4,
+        "name": "Patricia",
+        "lastName": "Lebsack",
+        "courseId": 2
+    },
+    {
+        "id": 5,
+        "name": "Chelsey",
+        "lastName": "Dietrich",
+        "courseId": 4
+    }
+]

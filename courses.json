@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Analisis Matematico I",
+        "description": "Description"
+    },
+    {
+        "id": 2,
+        "name": "Álgebra y Geometría Analítica ",
+        "description": "Description"
+    },
+    {
+        "id": 3,
+        "name": "Matemática Discreta",
+        "description": "Description"
+    },
+    {
+        "id": 4,
+        "name": "Física I",
+        "description": "Description"
+    }
+]
